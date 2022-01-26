@@ -1,0 +1,8 @@
+This is the original build created in 3/20/2018. Was written in Python's IDLE IDE.
+
+GOAL OF THE GAME
+Your goal is to escape an unknown dungeon you have found yourself in. Build up your character, find items and weapons throughout a randomly generated map. As you level up, enemies will scale up with you as you proceed through your journey.
+The game will end usually after 200 steps, give or take depending on the games randomly generated length.
+
+FEATURES
+This game includes a save and load feature, allowing you to continue where you left off, as well as a simple enemy scaling system based on your current level. The game also features dynamic item usage, where some items react differently depending on your situation.
