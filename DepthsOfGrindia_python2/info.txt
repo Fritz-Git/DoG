@@ -5,4 +5,4 @@ Your goal is to escape an unknown dungeon you have found yourself in. Build up y
 The game will end usually after 200 steps, give or take depending on the games randomly generated length.
 
 FEATURES
-This game includes a save and load feature, allowing you to continue where you left off, as well as a simple enemy scaling system based on your current level. The game also features dynamic item usage, where some items react differently depending on your situation.
+Simple RPG elements, including stats and an enemy scaling system based on your current level. The game also features dynamic item usage, where some items react differently depending on your situation.
